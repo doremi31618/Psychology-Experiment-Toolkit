@@ -1,0 +1,15 @@
+{
+  "name": "psy-exp-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EricZhan",
+  "license": "ISC",
+  "dependencies": {
+    "p5-psy-toolkit": "^1.0.1"
+  }
+}
