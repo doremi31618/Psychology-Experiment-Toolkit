@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+div#dat_gui{
+    position:absolute;
+    z-index: 1;
+    /* background-color: #444; */
+}
